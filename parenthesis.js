@@ -30,7 +30,7 @@ function parentheses(s) {
       }
       /* console.log(stack) */
     }
-    /* return stack.length == 0 */;
+     return stack.length == 0;
   } else {
     return false;
   }
